@@ -17,4 +17,16 @@ status:-
     3) staged:-file is ready to commited.
     <br>
     4) unmodified:- unchanged.
+<br>
+
+add:-adds new or changed files in your working directory to the git stage area.
+<br>
+git add filename
+<br>
+git add .(for add all files)
+<br>
+
+commit:-it is record of change
+<br>
+git commit -m"some message"
  
