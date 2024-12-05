@@ -29,4 +29,8 @@ git add .(for add all files)
 commit:-it is record of change
 <br>
 git commit -m"some message"
+
+<br>
+
+push:-upload local(laptop/pc) repo content to remote repo.(github repo).
  
